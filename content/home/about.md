@@ -10,31 +10,49 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Deep Learning",
+    "Multimodal Machine Learning",
+    "Natural Language Processing",
+    "Computer Vision",
+    "Deep Generative Models"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MSc in Intelligent Information Systems"
+  institution = "Carnegie Mellon University"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BEng in Software Engineering"
+  institution = "Fudan University"
+  year = 2017
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+#[[education.courses]]
+#  course = "BSc in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2008
  
 +++
 
-# Biography
+# About
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a second-year master student in the [Language Technologies Institute][lti] of [School of Computer Science][scs] at [Carnegie Mellon University][cmu], and a member of [MultiComp Lab][multicomp]. I am very fortunate to be advised by Prof. [Louis-Philippe Morency][lp]. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research interests lie in deep learning, multimodal machine learning, natural language processing and computer vision. 
+
+<!-- I interned with Prof. [Justine Cassell][justine] at [ArticuLab][articulab] on Socially Aware Robot Assistant.  -->
+
+<!-- Before CMU, I obtained my B.Eng. degree from Fudan University in 2017. -->
+
+<!-- In addition to research, I  -->
+
+<!-- Passionate learner and traveler. -->
+
+
+
+[lti]: https://lti.cs.cmu.edu/
+[scs]: https://www.cs.cmu.edu/
+[cmu]: https://www.cmu.edu/
+[lp]: https://www.cs.cmu.edu/~morency/
+[multicomp]: http://multicomp.cs.cmu.edu/
