@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "External Project"
+title = "SARA: The Socially Aware Robot Assistant"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
