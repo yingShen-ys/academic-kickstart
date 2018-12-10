@@ -10,7 +10,7 @@ summary = "A low-rank multimodal fusion method that leverages low-rank weight te
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Deep Learning"]
+tags = [""]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
