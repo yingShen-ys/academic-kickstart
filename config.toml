@@ -288,7 +288,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/resume/cv.pdf` and uncomment the lines below.
 [[menu.main]]
   name = "Resume"
-  url = "resume/cv.pdf"
+  url = "resume/YingShen_Resume.pdf"
   weight = 2
 
 [[menu.main]]
