@@ -6,7 +6,7 @@ title = "SARA: The Socially Aware Robot Assistant"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "SARA is a Socially Aware Robot Assistant that can interact with people through personalizing the interaction and improving task performance by relying on information about the relationship between the human user and virtual assistant."
+summary = "SARA is a socially-aware robot assistant that can interact with people through personalizing the interaction."
 
   
 
