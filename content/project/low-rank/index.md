@@ -6,7 +6,7 @@ title = "Efficient Low-rank Multimodal Fusion"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "An efficient method to integrate multiple unimodal representations (e.g. verbal, visual and audio) into one compact multimodal representation"
+summary = "An efficient method to integrate multiple unimodal representations (e.g. verbal, visual and audio) into one compact multimodal representation."
 # A low-rank multimodal fusion method that leverages low-rank weight tensors to efficiently learn one compact multimodal representation.
 
 
