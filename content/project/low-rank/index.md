@@ -1,12 +1,14 @@
 +++
 # Project title.
-title = "Efficient Low-rank Multimodal Fusion With Modality-Specific Factors"
+title = "Efficient Low-rank Multimodal Fusion"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "A low-rank multimodal fusion method that leverages low-rank weight tensors to efficiently learn one compact multimodal representation."
+summary = "An efficient method to integrate multiple unimodal representations (e.g. verbal, visual and audio) into one compact multimodal representation"
+<!-- A low-rank multimodal fusion method that leverages low-rank weight tensors to efficiently learn one compact multimodal representation. -->
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,4 +46,4 @@ url_code = ""
   focal_point = "Top"
 +++
 
-s
+Multimodal research is an emerging field of artificial intelligence, and one of the main research problems in this field is multimodal fusion. The fusion of multimodal data is the process of integrating multiple unimodal representations into one compact multimodal representation. Previous research in this field has exploited the expressiveness of tensors for multimodal representation. However, these methods often suffer from exponential increase in dimensions and in computational complexity introduced by transformation of input into tensor. In this paper, we propose the Low-rank Multimodal Fusion method, which performs multimodal fusion using low-rank tensors to improve efficiency. We evaluate our model on three different tasks: multimodal sentiment analysis, speaker trait analysis, and emotion recognition. Our model achieves competitive results on all these tasks while drastically reducing computational complexity. Additional experiments also show that our model can perform robustly for a wide range of low-rank settings, and is indeed much more efficient in both training and inference compared to other methods that utilize tensor represen- tations.
