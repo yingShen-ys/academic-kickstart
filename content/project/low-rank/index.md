@@ -3,7 +3,7 @@
 title = "Efficient Low-rank Multimodal Fusion with Modality-Specific Factors"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2017-10-01T00:00:00
 
 # Project summary to display on homepage.
 summary = "An efficient method to integrate multiple unimodal representations (e.g. verbal, visual and audio) into one compact multimodal representation."
