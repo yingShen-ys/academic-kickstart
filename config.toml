@@ -257,10 +257,10 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://www.linkedin.com/in/ying-shen-ys"
  
- # [[params.social]]
- #   icon = "twitter"
- #   icon_pack = "fab"
- #   link = "https://twitter.com/YingShen_ys"
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fab"
+    link = "https://twitter.com/YingShen_ys"
 
  # [[params.social]]
  #   icon = "google-scholar"

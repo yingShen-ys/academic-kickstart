@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Efficient Low-rank Multimodal Fusion"
+title = "Efficient Low-rank Multimodal Fusion with Modality-Specific Factors"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
