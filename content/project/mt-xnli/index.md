@@ -1,9 +1,9 @@
 +++
 # Project title.
-title = "Efficient Low-rank Multimodal Fusion"
+title = "Improving Machine Translation Quality by Cross-lingual Natural Language Inference"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2023-04-27T00:00:00
 
 # Project summary to display on homepage.
 summary = "An efficient method to integrate multiple unimodal representations (e.g. verbal, visual and audio) into one compact multimodal representation."

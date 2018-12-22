@@ -15,13 +15,14 @@ weight = 60
 
 +++
 
-- I can speak Shanghainese (native), Chinese Mandarin (native), Japanese (conversational), and English.
 
 - I “worked” as a little art editor at a teenage magazine office where I was paid for each illustration I drew from seven years old to fifteen years old. 
 
 - I love painting. To me, painting is like another medium (besides verbal and nonverbal behaviors) for expressing feelings and thoughts.
 
 - I enjoy traveling, exploring new restaurants, watching Japanese animations, and swimming.
+
+- I can speak Shanghainese (native), Chinese Mandarin (native), Japanese (conversational), and English.
 
 - I hope to use technology to help minority groups and improve people’s quality of life.
 

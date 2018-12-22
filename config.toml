@@ -267,12 +267,17 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://github.com/yingShen-ys"
 
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/ying-shen-ys"
+
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+  [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "resume/YingShen_Resume.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -289,10 +294,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/resume/cv.pdf` and uncomment the lines below.
-[[menu.main]]
-  name = "Resume"
-  url = "resume/YingShen_Resume.pdf"
-  weight = 2
+#[[menu.main]]
+#  name = "Resume"
+#  url = "resume/YingShen_Resume.pdf"
+#  weight = 2
 
 [[menu.main]]
   name = "Publications"
