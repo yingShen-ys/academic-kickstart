@@ -3,7 +3,7 @@
   {{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}
   {{ $anchor := .Params.image.focal_point | default "Smart" }}
   {{ with $resource }}
-  {{ $image := .Fill  "918x517 q90"  }}
+  {{ $image := .Fit  "918x517 q90"  }}
   <div>
     <a href="{{ $.RelPermalink }}">
       <img src="{{ $image.RelPermalink }}" class="article-banner" itemprop="image" alt="">
