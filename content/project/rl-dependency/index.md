@@ -6,7 +6,7 @@ title = "Dependency Parsing with Deep Reinforcement Learning"
 date = 2018-02-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Trained a reinforcement learning agent using the Advantage Actor Critic (A2C) algorithm to perform non-greedy decoding with transition-based dependency parser by considering the future rewards。"
+summary = "Trained a reinforcement learning agent to perform non-greedy decoding with transition-based dependency parser by considering the future rewards."
 
 
 # Tags: can be used for filtering projects.
@@ -47,9 +47,9 @@ url_code = ""
   # Show image only in page previews?
   preview_only = true
 
-#[header]
-#  image = "header/low-rank.jpg"
-#  caption="Structure of Low-rank Multimodal Fusion Model"
+[header]
+  image = "header/rl-dependency.jpg"
+  caption="Transition-based Dependency Parser with RL Agent"
 +++
 
 Dependency parsing is one of the most fundamental tasks in the field of Natural Language Processing. Previous work on transition-based dependency parsing mostly rely on greedy decoding at inference stage, and is prone to the error propagation problem, where one early error can lead the parser to diverge further and further away from the ground truth. In this work, we build a reinforcement learning agent using the Advantage Actor Critic (A2C) algorithm to perform non-greedy decoding with transition-based dependency parser by considering the future rewards. This reinforcement learning framework for non-greedy decoding for dependency parsing can be easily built on top of previous transition-based parsers, hence can benefit from previous parsing models. We perform experiments on the English Penn Treebank (PTB) datasets and demonstrate that our approach can achieve 90.63% unlabeled accuracy, which improves around 0.4% accuracy compared to the supervised neural dependency parser.
