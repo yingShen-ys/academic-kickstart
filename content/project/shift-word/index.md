@@ -41,7 +41,7 @@ url_code = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = ""
 +++
 
 Humans convey their intentions through the usage of both verbal and nonverbal behaviors during face-to-face communication. Speaker intentions often vary dynamically depending on different nonverbal contexts, such as vocal patterns and facial expressions. For example, with the same sentence, “The movie is sick!”, the speaker can convey different sentiments when showing different facial expressions or vocal intonations. Although the speaker is using the same adjective “sick” to describe movies, they could be very excited about the movie or find the movie disappointing by showing opposing nonverbal behaviors. As a result, when modeling human language, it is essential to not only consider the literal meaning of the words but also the nonverbal contexts in which these words appear.
