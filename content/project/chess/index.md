@@ -44,11 +44,11 @@ url_code = ""
   focal_point = "Top"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 
-[header]
-  image = "header/"
-  caption="Structure of Low-rank Multimodal Fusion Model"
+#[header]
+#  image = "header/"
+#  caption="Structure of Low-rank Multimodal Fusion Model"
 +++
 
 An artificial intelligence game engine for Chinese chess, which is a popular board game in China. The game is designed with two modes: human-computer and human-human mode.
