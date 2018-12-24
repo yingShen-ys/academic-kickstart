@@ -6,7 +6,7 @@ title = "Dependency Parsing with Deep Reinforcement Learning"
 date = 2018-02-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Trained a reinforcement learning agent to perform non-greedy decoding with transition-based dependency parser by considering the future rewards."
+summary = "A reinforcement learning agent to perform non-greedy decoding with transition-based dependency parser by considering the future rewards."
 
 
 # Tags: can be used for filtering projects.
