@@ -35,7 +35,7 @@ weight = 5
  
 +++
 
-# About [CV][cv]
+# About [[CV][cv]]
 
 I am a second-year master student in the [Language Technologies Institute][lti] of [School of Computer Science][scs] at [Carnegie Mellon University][cmu], and a member of [MultiComp Lab][multicomp]. I am very fortunate to be advised by Prof. [Louis-Philippe Morency][lp]. 
 
