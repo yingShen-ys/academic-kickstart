@@ -35,7 +35,7 @@ weight = 5
  
 +++
 
-# About [[CV][cv]]
+# About 
 
 I am a second-year master student in the [Language Technologies Institute][lti] of [School of Computer Science][scs] at [Carnegie Mellon University][cmu], and a member of [MultiComp Lab][multicomp]. I am very fortunate to be advised by Prof. [Louis-Philippe Morency][lp]. 
 
@@ -50,7 +50,6 @@ Before coming to CMU, I obtained my Bachelor's Degree from [School of Software E
 <!-- Passionate learner and traveler. -->
 
 
-[cv]: /resume/YingShen_Resume.pdf
 [lti]: https://lti.cs.cmu.edu/
 [scs]: https://www.cs.cmu.edu/
 [cmu]: https://www.cmu.edu/
