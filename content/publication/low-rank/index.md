@@ -42,7 +42,7 @@ tags = []
 # Links (optional).
 url_pdf = "http://aclweb.org/anthology/P18-1209"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/Justin1904/Low-rank-Multimodal-Fusion/"
 url_dataset = ""
 url_project = ""
 url_slides = "acl18-lowrank-slides.pdf"

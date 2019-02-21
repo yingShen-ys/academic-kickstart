@@ -42,12 +42,12 @@ tags = []
 # Links (optional).
 url_pdf = "https://arxiv.org/pdf/1811.09362.pdf"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/victorywys/RAVEN/"
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "aaai2019-word-shift-slides.pdf"
 url_video = ""
-url_poster = ""
+url_poster = "aaai2019-word-shift-poster.pdf"
 url_source = ""
 
 
