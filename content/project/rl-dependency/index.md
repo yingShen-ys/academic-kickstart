@@ -25,7 +25,7 @@ external_link = ""
 slides = "example-slides"
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "project/rl-dependency/Dependency_Parsing_With_Deep_Reinforcement_Learning_Final_Report.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
