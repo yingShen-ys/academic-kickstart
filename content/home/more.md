@@ -22,7 +22,7 @@ weight = 60
 
 - I enjoy traveling, exploring new restaurants, watching Japanese animations, and swimming.
 
-- I can speak Shanghainese (native), Chinese Mandarin (native), Japanese (conversational), and English.
+- I can speak Shanghainese (native), Chinese Mandarin (native), Japanese (conversational), and English (fluent).
 
 - I hope to use technology to help minority groups and improve people’s quality of life.
 
