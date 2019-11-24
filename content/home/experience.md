@@ -36,7 +36,7 @@ date_format = "January 2006"
   description = ""
 
 [[experience]]
-  title = "Research Assistant"
+  title = "Research Intern"
   company = "ArticuLab, Carnegie Mellon University"
   company_url = "http://articulab.hcii.cs.cmu.edu/"
   location = "Pittsburgh, PA"
