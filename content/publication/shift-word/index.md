@@ -1,5 +1,5 @@
 +++
-title = "Words Can Shift: Dynamically Adjusting Word Representations Using Nonverbal Behaviours"
+title = "Words Can Shift: Dynamically Adjusting Word Representations Using Nonverbal Behaviours (AAAI 2019)"
 date = 2018-11-27T00:00:00
 draft = false
 

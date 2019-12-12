@@ -1,5 +1,5 @@
 +++
-title = "Efficient Low-rank Multimodal Fusion with Modality-Specific Factors"
+title = "Efficient Low-rank Multimodal Fusion with Modality-Specific Factors (ACL 2018)"
 date = 2018-07-15T00:00:00
 draft = false
 
