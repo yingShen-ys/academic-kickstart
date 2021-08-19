@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -9,21 +8,6 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 90
-=======
-+++
-# Recent Publications widget.
-# This widget displays recent publications from `content/publication/`.
-widget = "publications"
-math = true
-active = true
-date = 2016-04-20T00:00:00
-
-title = "Publications"
-subtitle = ""
-
-# Order that this section will appear in.
-weight = 8
->>>>>>> 11fe4df (update)
 
 title: Recent Publications
 subtitle: ''

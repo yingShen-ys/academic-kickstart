@@ -3,13 +3,8 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
-<<<<<<< HEAD
 # This file represents a page section.
-headless: true
-=======
-# Activate this widget? true/false
-active = false
->>>>>>> 11fe4df (update)
+headless: false
 
 # Order that this section appears on the page.
 weight: 30
