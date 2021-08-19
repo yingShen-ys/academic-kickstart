@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
+=======
++++
+# Recent and Upcoming Talks widget.
+widget = "talks"
+active = false
+date = 2016-04-20T00:00:00
+>>>>>>> 11fe4df (update)
 
 # This file represents a page section.
 headless: true

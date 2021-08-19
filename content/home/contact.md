@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 ---
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
+=======
++++
+# Contact widget.
+widget = "contact"
+active = false
+date = 2016-04-20T00:00:00
+>>>>>>> 11fe4df (update)
 
 # This file represents a page section.
 headless: true

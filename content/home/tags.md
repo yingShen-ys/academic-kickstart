@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 ---
 # An instance of the Tag Cloud widget.
 # Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
+=======
++++
+# Tag Cloud widget.
+widget = "tag_cloud"
+active = false
+date = 2017-09-20T00:00:00
+>>>>>>> 11fe4df (update)
 
 # This file represents a page section.
 headless: true
