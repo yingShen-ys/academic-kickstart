@@ -20,7 +20,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Computer Science"
-  institution = "Virginial Tech"
+  institution = "Virginia Tech"
 
 [[education.courses]]
   course = "MSc in Intelligent Information Systems"
