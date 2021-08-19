@@ -21,7 +21,6 @@ weight = 5
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "Virginial Tech"
-  year = Present
 
 [[education.courses]]
   course = "MSc in Intelligent Information Systems"
