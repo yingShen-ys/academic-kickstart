@@ -22,7 +22,6 @@ weight = 100
 
 - I hope to use technology to help minority groups and improve people’s quality of life.
 
-
 > "There is only one heroism in the world: to see the world as it is, and to love it."
 >
 > <cite>-- Romain Rolland</cite>

@@ -105,6 +105,7 @@ enableGitInfo = false
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
+
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
 
@@ -248,7 +249,12 @@ enableGitInfo = false
     icon = "envelope"
     icon_pack = "fas"
     link = "mailto:yingshen94@gmail.com"
-
+  
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/ying-shen-ys"
+ 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
@@ -266,10 +272,10 @@ enableGitInfo = false
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+  [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "resume/YingShen_Resume.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
