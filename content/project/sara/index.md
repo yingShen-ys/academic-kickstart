@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: "http://articulab.hcii.cs.cmu.edu/projects/sara/"
 
 image:
-  caption: 
+  caption:  
   focal_point: Smart
 
 # links:
