@@ -11,6 +11,7 @@ external_link: ""
 image:
   caption: Conceptual Figure of Word Representation Space
   focal_point: Smart
+  preview_only: true
 
 # links:
 # - icon: twitter

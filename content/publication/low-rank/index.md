@@ -59,7 +59,7 @@ url_video: ''
 image:
   caption: 'Structure of Low-rank Multimodal Fusion Model'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
