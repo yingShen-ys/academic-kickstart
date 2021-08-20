@@ -42,12 +42,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '/#contact'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:yingshen94@gmail.com"
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/YingShen_ys
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -69,14 +69,14 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I am a PhD student of Computer Science at [Virginia Tech][vt].
 
 My research interests lie in deep learning, natural language processing and multi-modal machine learning, the vibrant multi-disciplinary research field that focuses on integrating and modeling multiple communicative modalities, including linguistic, acoustic and visual messages. My enthusiasm is to build more human-like interactive agents to better understand, interpret and reason about the world around us.
 
-I obtained my Master of Science degree in Intelligent Information Systems degree from [Carnegie Mellon University][cmu] and my Bachelor’s degree from [School of Software Engineering][se], [Fudan University][fdu]. Previously, I worked with Prof. [Louis-Philippe Morency][lp] and Prof. [Graham Neubig][graham] at CMU.
+I obtained my Master of Science degree in Intelligent Information Systems from [Carnegie Mellon University][cmu] and my Bachelor’s degree from [School of Software Engineering][se], [Fudan University][fdu]. Previously, I worked with Prof. [Louis-Philippe Morency][lp] and Prof. [Graham Neubig][graham] at CMU.
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
 

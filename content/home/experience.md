@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Experience
 subtitle:
@@ -21,27 +21,35 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
-  - title: "Research Associate"
-    company: "MultiComp Laboratory and NeuLab, Carnegie Mellon University"
-    company_url: "https://www.cmu.edu/"
+  - title: Research Associate
+    company: Language Technologies Institute, Carnegie Mellon University
+    company_url: "https://lti.cs.cmu.edu/"
+    company_logo: 
+    location: "Pittsburgh, PA"
+    date_start: "2019-01-01"
+    date_end: "2019-12-31"
+    description: ""
+
+  - title: Graduate Research Associate
+    company: MultiComp Laboratory, Carnegie Mellon University
+    company_url: "http://multicomp.cs.cmu.edu/"
     company_logo: 
     location: "Pittsburgh, PA"
     date_start: "2017-09-01"
-    date_end: "2019-12-31"
-    description: 
+    date_end: "2018-12-31"
+    description: ""
 
-experience:
-  - title: Research Assistant
+  - title: Research Intern
     company: ArticuLab, Carnegie Mellon University
-    company_url: 'https://www.cmu.edu/'
+    company_url: 'http://articulab.hcii.cs.cmu.edu/'
     company_logo: 
     location: "Pittsburgh, PA"
-    date_start: "2016-07-01"
-    date_end: "2016-09-01"
-    description: 
+    date_start: "2016-08-01"
+    date_end: "2016-07-01"
+    description: ""
 
-# experience:
 #   - title: Participant
 #     company: European Innovation Academy Event
 #     company_url: 'https://www.inacademy.eu'

@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: ocean
 day_night: true
 font: ''
 font_size: L
@@ -59,7 +59,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
@@ -77,7 +77,7 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
