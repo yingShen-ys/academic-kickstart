@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning on Ying Shen</title>
+    <link>https://yingshen-ys.github.io/tags/reinforcement-learning/</link>
+    <description>Recent content in Reinforcement Learning on Ying Shen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Ying Shen 2018</copyright>
+    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://yingshen-ys.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dependency Parsing with Deep Reinforcement Learning</title>
+      <link>https://yingshen-ys.github.io/project/rl-dependency/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yingshen-ys.github.io/project/rl-dependency/</guid>
+      <description>A reinforcement learning agent to perform non-greedy decoding with transition-based dependency parser by considering the future rewards.</description>
+    </item>
+    
+  </channel>
+</rss>

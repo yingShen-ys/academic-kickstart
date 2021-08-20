@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence | Ying Shen</title>
+    <link>https://yingshen-ys.github.io/tag/artificial-intelligence/</link>
+      <atom:link href="https://yingshen-ys.github.io/tag/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artificial Intelligence</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Ying Shen</copyright><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yingshen-ys.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Artificial Intelligence</title>
+      <link>https://yingshen-ys.github.io/tag/artificial-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>Chinese Chess AI</title>
+      <link>https://yingshen-ys.github.io/project/chess/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://yingshen-ys.github.io/project/chess/</guid>
+      <description>&lt;p&gt;An artificial intelligence game engine for Chinese chess, which is a popular board game in China. The game is designed with two modes: human-computer and human-human mode.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
