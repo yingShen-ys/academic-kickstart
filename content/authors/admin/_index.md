@@ -72,7 +72,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student of Computer Science at [Virginia Tech][vt].
+I am a PhD student of Computer Science at [Virginia Tech][vt].  I am very fortunate to be advised by Prof. [Lifu Huang][lifu] and Prof. [Ismini Lourentzou][il].
 
 My research interests lie in deep learning, natural language processing and multi-modal machine learning, the vibrant multi-disciplinary research field that focuses on integrating and modeling multiple communicative modalities, including linguistic, acoustic and visual messages. My enthusiasm is to build more human-like interactive agents to better understand, interpret and reason about the world around us.
 
@@ -81,11 +81,10 @@ I obtained my Master of Science degree in Intelligent Information Systems from [
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
 
 [vt]: https://vt.edu/
-[lti]: https://lti.cs.cmu.edu/
-[scs]: https://www.cs.cmu.edu/
 [cmu]: https://www.cmu.edu/
 [graham]: http://www.phontron.com/
 [lp]: https://www.cs.cmu.edu/~morency/
-[multicomp]: http://multicomp.cs.cmu.edu/
 [se]: http://www.software.fudan.edu.cn/software/index.html#/index
 [fdu]: http://www.fudan.edu.cn/en/
+[lifu]: https://wilburone.github.io/
+[il]: https://isminoula.github.io/
