@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Machine Learning Research Intern
+    company: Apple
+    company_url: "https://machinelearning.apple.com/"
+    company_logo: 
+    location: "New York, NY"
+    date_start: "2023-05-15"
+    date_end: "2023-08-18"
+    description: ""
+
   - title: Research Associate
     company: Language Technologies Institute, Carnegie Mellon University
     company_url: "https://lti.cs.cmu.edu/"
@@ -32,7 +41,7 @@ experience:
     date_end: "2019-12-31"
     description: ""
 
-  - title: Graduate Research Associate
+  - title: Graduate Research Assistant
     company: MultiComp Laboratory, Carnegie Mellon University
     company_url: "http://multicomp.cs.cmu.edu/"
     company_logo: 
