@@ -78,6 +78,10 @@ My research interests lie in deep learning, natural language processing and mult
 
 I obtained my Master of Science degree in Intelligent Information Systems from [Carnegie Mellon University][cmu] and my Bachelor’s degree from [School of Software Engineering][se], [Fudan University][fdu]. Previously, I worked with Prof. [Louis-Philippe Morency][lp] and Prof. [Graham Neubig][graham] at CMU.
 
+I am honored to have been awarded the [Amazon-VT Fellowship][amazon_fellowship] for the 2023-2024 academic year.
+
+<!-- I have also spent time doing research at Apple (2023). -->
+
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
 
 [vt]: https://vt.edu/
@@ -88,3 +92,4 @@ I obtained my Master of Science degree in Intelligent Information Systems from [
 [fdu]: http://www.fudan.edu.cn/en/
 [lifu]: https://wilburone.github.io/
 [il]: https://isminoula.github.io/
+[amazon_fellowship]: https://www.amazon.science/news-and-features/amazon-and-virginia-tech-announce-2023-2024-fellowship-faculty-research-award-recipients
