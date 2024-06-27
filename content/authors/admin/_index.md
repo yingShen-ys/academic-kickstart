@@ -44,13 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:yingshen94@gmail.com"
+  link: "mailto:yingshen.cs@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/YingShen_ys
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=NytpXgwAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/yingShen-ys/
