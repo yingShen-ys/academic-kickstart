@@ -6,7 +6,7 @@ title: Ying Shen
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Phd Student
+role: Computer Science Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
