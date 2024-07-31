@@ -47,7 +47,7 @@ featured: true
 url_pdf: 'https://arxiv.org/pdf/2402.15896'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'MixLoRA_poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''

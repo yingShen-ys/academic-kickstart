@@ -48,7 +48,7 @@ featured: true
 url_pdf: 'https://arxiv.org/pdf/2405.21048'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'Kaleido_poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''

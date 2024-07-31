@@ -49,7 +49,7 @@ featured: true
 url_pdf: 'https://arxiv.org/pdf/2404.03109'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'M2M_poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''

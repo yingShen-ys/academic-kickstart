@@ -48,7 +48,7 @@ featured: true
 url_pdf: 'https://aclanthology.org/2023.acl-long.641/'
 url_code: 'https://github.com/VT-NLP/MultiInstruct'
 url_dataset: ''
-url_poster: ''
+url_poster: 'MultiInstruct_poster.pdf'
 url_project: ''
 url_slides: 'MULTIINSTRUCT_slides.pdf'
 url_source: ''
