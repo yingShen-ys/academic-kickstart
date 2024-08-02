@@ -10,8 +10,8 @@ role: Computer Science Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Virginia Tech
-  url: https://vt.edu/
+- name: University of Illinois Urbana-Champaign
+  url: https://siebelschool.illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
