@@ -1,22 +1,23 @@
 ---
-title: "Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling"
+title: "InternalInspector I2: Robust Confidence Estimation in LLMs through Internal States"
 
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-authors: ["Jiatao Gu", admin, "Shuangfei Zhai", "Yizhe Zhang", "Navdeep Jaitly", "Joshua M. Susskind"]
+authors: ["Mohammad Beigi", admin, "Runing Yang", "Zihao Lin", "Qifan Wang", "Ankith Mohan", "Jianfeng He", "Ming Jin", "Chang-Tien Lu", "Lifu Huang"]
+
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2024-06-01T00:00:00Z"
+date: "2024-04-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-06-01T00:00:00Z"
+publishDate: "2024-04-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,11 +26,10 @@ publishDate: "2024-06-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *the Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)*
-publication_short: In *NeurIPS 2024*
+publication: In *the Findings of the Association for Computational Linguistics EMNLP 2024*
+publication_short: In *EMNLP 2024*
 
-
-abstract: "Diffusion models have emerged as a powerful tool for generating high-quality images from textual descriptions. Despite their successes, these models often exhibit limited diversity in the sampled images, particularly when sampling with a high classifier-free guidance weight. To address this issue, we present Kaleido, a novel approach that enhances the diversity of samples by incorporating autoregressive latent priors. Kaleido integrates an autoregressive language model that encodes the original caption and generates latent variables, serving as abstract and intermediary representations for guiding and facilitating the image generation process. In this paper, we explore a variety of discrete latent representations, including textual descriptions, detection bounding boxes, object blobs, and visual tokens. These representations diversify and enrich the input conditions to the diffusion models, enabling more diverse outputs. Our experimental results demonstrate that Kaleido effectively broadens the diversity of the generated image samples from a given textual description while maintaining high image quality. Furthermore, we show that Kaleido adheres closely to the guidance provided by the generated latent variables, demonstrating its capability to effectively control and direct the image generation process."
+abstract: "Despite their vast capabilities, Large Language Models (LLMs) often struggle with generating reliable outputs, frequently producing high-confidence inaccuracies known as hallucinations. Addressing this challenge, our research introduces InternalInspector, a novel framework designed to enhance confidence estimation in LLMs by leveraging contrastive learning on internal states including attention states, feed-forward states, and activation states of all layers. Unlike existing methods that primarily focus on the final activation state, InternalInspector conducts a comprehensive analysis across all internal states of every layer to accurately identify both correct and incorrect prediction processes. By benchmarking InternalInspector against existing confidence estimation methods across various natural language understanding and generation tasks, including factual question answering, commonsense reasoning, and reading comprehension, InternalInspector achieves significantly higher accuracy in aligning the estimated confidence scores with the correctness of the LLM’s predictions and lower calibration error. Furthermore, InternalInspector excels at HaluEval, a hallucination detection benchmark, outperforming other internal-based confidence estimation methods in this task."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -44,10 +44,10 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2405.21048'
+url_pdf: 'https://aclanthology.org/2024.findings-emnlp.751.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: 'Kaleido_poster.pdf'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Comparison of the generated image samples given the caption “a cat sat on the mat”.'
+  caption: ""
   focal_point: ""
   preview_only: true
 
