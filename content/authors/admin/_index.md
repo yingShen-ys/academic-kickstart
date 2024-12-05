@@ -20,9 +20,9 @@ bio:
 interests:
 - Deep Learning
 - Multimodal Machine Learning
+- Deep Generative Models
 - Natural Language Processing
 - Computer Vision
-- Deep Generative Models
 
 # Education to show in About widget
 education:
@@ -77,9 +77,11 @@ highlight_name: true
 
 I am currently pursuing my Ph.D. in Computer Science at the [University of Illinois Urbana-Champaign][uiuc].
 
-My research interests lie in deep learning, natural language processing and multi-modal machine learning, the vibrant multi-disciplinary research field that focuses on integrating and modeling multiple communicative modalities, including linguistic, acoustic and visual messages. My enthusiasm is to build more human-like interactive agents to better understand, interpret and reason about the world around us.
+<!-- My research interests lie in deep learning, natural language processing and multi-modal machine learning, the vibrant multi-disciplinary research field that focuses on integrating and modeling multiple communicative modalities, including linguistic, acoustic and visual messages. My enthusiasm is to build more human-like interactive agents to better understand, interpret and reason about the world around us. -->
 
-I began my Ph.D. studies in Computer Science at [Virginia Tech][vt], advised by Prof. [Lifu Huang][lifu] and Prof. [Ismini Lourentzou][il], and later transferred to UIUC to further expand my research capabilities. I obtained my Master of Science degree in Intelligent Information Systems from [Carnegie Mellon University][cmu] and my Bachelor’s degree from [School of Software Engineering][se], [Fudan University][fdu]. Previously, I worked with Prof. [Louis-Philippe Morency][lp] and Prof. [Graham Neubig][graham] at CMU.
+My research interests lie in multi-modal machine learning, a vibrant multi-disciplinary research field that focuses on integrating and modeling multiple communicative modalities, including linguistic, acoustic and visual messages. Specifically, my work focuses on developing *<u>efficient</u>, <u>controllable</u>, <u>adaptive</u>, and <u>interactive</u>* **multi-modal generative models**. My enthusiasm is to build robust AI agents capable of understanding, interpreting, and reasoning about the physical world. These systems are envisioned to effectively operate in complex and ever-changing environments, make informed decisions and respond intelligently to real-world challenges.
+
+I began my Ph.D. studies in Computer Science at [Virginia Tech][vt], advised by Prof. [Lifu Huang][lifu] and Prof. [Ismini Lourentzou][il], and later transferred to [UIUC][uiuc] to further expand my research capabilities. I obtained my Master of Science degree in Intelligent Information Systems from [Carnegie Mellon University][cmu] and my Bachelor’s degree from [School of Software Engineering][se], [Fudan University][fdu]. Previously, I worked with Prof. [Louis-Philippe Morency][lp] and Prof. [Graham Neubig][graham] at CMU.
 
 I am honored to have been awarded the [Amazon-VT Fellowship][amazon_fellowship] for the 2023-2024 academic year.
 
