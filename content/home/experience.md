@@ -27,6 +27,14 @@ experience:
     company: Apple
     company_url: "https://machinelearning.apple.com/"
     company_logo: 
+    location: "Cupertino, CA"
+    date_start: "2025-05-19"
+    date_end: "2025-09-26"
+    description: ""
+  - title: Machine Learning Research Intern
+    company: Apple
+    company_url: "https://machinelearning.apple.com/"
+    company_logo: 
     location: "New York, NY"
     date_start: "2023-05-15"
     date_end: "2023-08-18"
