@@ -23,8 +23,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: PhD Research Intern
+    company: NVIDIA Research GenAIR                                                                         
+    company_url: "https://research.nvidia.com/labs/genair/"
+    company_logo: 
+    location: "Remote / Santa Clara, CA"
+    date_start: "2026-02-01"
+    date_end: ""
+    description: ""
   - title: Machine Learning Research Intern
-    company: Apple
+    company: Apple AIML
     company_url: "https://machinelearning.apple.com/"
     company_logo: 
     location: "Cupertino, CA"
@@ -32,12 +40,12 @@ experience:
     date_end: "2025-09-26"
     description: ""
   - title: Machine Learning Research Intern
-    company: Apple
+    company: Apple AIML
     company_url: "https://machinelearning.apple.com/"
     company_logo: 
     location: "New York, NY"
     date_start: "2023-05-15"
-    date_end: "2023-08-18"
+    date_end: "2023-09-01"
     description: ""
 
   - title: Research Associate
@@ -63,8 +71,8 @@ experience:
     company_url: 'http://articulab.hcii.cs.cmu.edu/'
     company_logo: 
     location: "Pittsburgh, PA"
-    date_start: "2016-08-01"
-    date_end: "2016-07-01"
+    date_start: "2016-07-01"
+    date_end: "2016-09-01"
     description: ""
 
 #   - title: Participant
