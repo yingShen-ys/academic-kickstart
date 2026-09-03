@@ -75,7 +75,9 @@ highlight_name: true
 ---
 
 {{% callout note %}}
-**I am on the 2026–2027 job market**, seeking full-time Research Scientist opportunities in generative AI, multimodal learning, and video generation. Please feel free to [get in touch](mailto:ying22@illinois.edu). 🚀
+**I am on the 2026–2027 job market**, seeking full-time research opportunities in generative AI, multimodal learning, and video generation. 
+
+Please feel free to [**reach out**](mailto:ying22@illinois.edu) if you think I’d be a good fit. 🚀
 {{% /callout %}}
 
 I am a final-year Ph.D. candidate in Computer Science at the [University of Illinois Urbana-Champaign][uiuc].
@@ -84,7 +86,7 @@ I am a final-year Ph.D. candidate in Computer Science at the [University of Illi
 
 <!-- developing *<u>efficient</u>, <u>controllable</u>, <u>adaptive</u>, and <u>interactive</u>* multi-modal generative models.  -->
 My research interests lie in **multimodal generative modeling and interaction**, with the goal of enabling AI agents to interact seamlessly with users and complex environments by integrating and modeling diverse modalities -- including linguistic, acoustic, and visual messages. 
-Specifically, my work focuses on developing multimodal generative models, with an emphasis on making them *<u>efficient</u>, <u>adaptive</u>, <u>physics-aware</u>*, and increasingly *<u>unified</u>* across perception, reasoning, and generation.
+Specifically, my work focuses on developing multimodal generative models, with an emphasis on making them *<u>efficient</u>, <u>controllable</u>, <u>physics-aware</u>*, and increasingly *<u>unified</u>* across perception, reasoning, and generation.
 My enthusiasm is to build robust AI agents capable of understanding and reasoning about the physical world. These systems are envisioned to effectively operate in complex and ever-changing environments, make informed decisions, and respond intelligently to real-world challenges.
 
 I began my Ph.D. studies in Computer Science at [Virginia Tech][vt], advised by Prof. [Lifu Huang][lifu] and Prof. [Ismini Lourentzou][il], and later transferred to [UIUC][uiuc], where I continue to work with Prof. [Lourentzou][il]. I obtained my M.S. in Intelligent Information Systems from [Carnegie Mellon University][cmu] and my B.E. from [School of Software Engineering][se], [Fudan University][fdu]. Previously, I worked with Prof. [Louis-Philippe Morency][lp] and Prof. [Graham Neubig][graham] at CMU.
