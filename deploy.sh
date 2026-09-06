@@ -5,8 +5,9 @@ git push
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-# Build the project.
-hugo -t academic # if using a theme, replace with `hugo -t <YOURTHEME>`
+# Build the project (Wowchemy is loaded via Hugo Modules in go.mod / config/_default).
+# Do not use `hugo -t academic` — that is the legacy v4 theme path and can skip module config.
+hugo --gc --minify
 
 # Go To Public folder
 cd public
