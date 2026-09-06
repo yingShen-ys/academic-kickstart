@@ -75,7 +75,7 @@ highlight_name: true
 ---
 
 {{% callout note %}}
-**I am on the 2026–2027 job market**, seeking full-time research opportunities in generative AI, multimodal learning, and video generation. 
+**I am on the 2026–2027 job market**, seeking full-time research opportunities in industry, particularly in generative AI, multimodal learning, and video generation.
 
 Please feel free to [**reach out**](mailto:ying22@illinois.edu) if you think I’d be a good fit. 🚀
 {{% /callout %}}
